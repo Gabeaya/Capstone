@@ -15,8 +15,8 @@
 
 * 11:00: Tutorial on how to store images within firebase database.
 * 11:50: Begin researching background gradients and how to animate them
-
-
+* 12:00: Lunch Time
+* 2:30: Continue Styling research
 
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
