@@ -14,6 +14,7 @@
 * 10:00: Begin Research and implementation of claymorphism styling
 
 * 11:00: Tutorial on how to store images within firebase database.
+* 11:50: Begin researching background gradients and how to animate them
 
 
 
