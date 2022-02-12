@@ -10,6 +10,9 @@
 ### Tuesday 2/8
 * 10:20 - 9:00: Tutorial for creating an application that uses firebase for the backend https://github.com/Gabeaya/Firebase-Blog
 
+### Saturday 2/12
+* 10:00: Begin Research and implementation of claymorphism styling
+
 
 
 ### Capstone Proposal:
