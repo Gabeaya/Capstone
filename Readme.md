@@ -13,6 +13,8 @@
 ### Saturday 2/12
 * 10:00: Begin Research and implementation of claymorphism styling
 
+* 11:00: Tutorial on how to store images within firebase database.
+
 
 
 ### Capstone Proposal:
