@@ -8,7 +8,7 @@
 * 2:30 - 4:10 : sift through UX features, like microinteractions, to decide how your page will be formatted
 
 ### Tuesday 2/8
-* 10:20 - 9:00: Tutorial for creating an application that uses firebase for the backend 
+* 10:20 - 9:00: Tutorial for creating an application that uses firebase for the backend https://github.com/Gabeaya/Firebase-Blog
 
 
 
