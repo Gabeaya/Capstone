@@ -20,6 +20,7 @@
 * 3:00: Follow along with the friendly eats repo that shows you how to make a grocery list with firebase as a backend.
 * 4:00: Finish FriendlyEats
 * 4:30: Look up how to make card items draggable and utilize @johnwhittenstudio's repo that uses js for that: https://github.com/johnwhittenstudio/camp-planner
+* 5:00: Finish skim reading the freecodeCamp documentation on a firebase todo app: https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
 
 
 ### Capstone Proposal:
