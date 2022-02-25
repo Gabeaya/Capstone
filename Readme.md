@@ -29,5 +29,6 @@
 
 ### Friday 2/25 
 * 1:25 Glassmorphism tutorial
+* 2:40 take a break since firebase expired
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
