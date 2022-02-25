@@ -22,6 +22,12 @@
 * 4:30: Look up how to make card items draggable and utilize @johnwhittenstudio's repo that uses js for that: https://github.com/johnwhittenstudio/camp-planner
 * 5:00: Finish skim reading the freecodeCamp documentation on a firebase todo app: https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
 
+### Sundays  2/13 Action Plan
+* Create a component tree
+* Implement glass morphismm into blog page
+* Try to implement scrollable stories
 
+### Friday 2/25 
+* 1:25 Glassmorphism tutorial
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
