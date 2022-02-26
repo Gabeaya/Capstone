@@ -36,5 +36,8 @@
 * 10:30 Start Dave Grays tutorial on react routers
 * 12:30 Complete Blog with react routers
 * 12:40 Implement Router Hooks
+* 1:30 Lunch break
+* 3:15 Chapter 18: flexbox components
+* 3:30 App Broke.. Move on to Api apps served with Axios tutorial
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
