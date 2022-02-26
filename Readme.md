@@ -34,6 +34,7 @@
 ### Saturdy 2/26 
 * 9:50 Try to fix blog page(firebase error expired)
 * 10:30 Start Dave Grays tutorial on react routers
-
+* 12:30 Complete Blog with react routers
+* 12:40 Implement Router Hooks
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
