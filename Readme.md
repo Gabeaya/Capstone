@@ -42,5 +42,9 @@
 * The react hooks lesson is just about finished.you just passed a feel hooks to the newpost and are just about to implement the newpost pages functionality.
 * You have set up this project to use react routers version five so it is specific to the tutorial.
 
+
+### Sun Feb 27
+* 10:20 Go through projects and determine what database system to use.
+
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
