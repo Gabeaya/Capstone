@@ -40,7 +40,7 @@
 * 3:15 Chapter 18: flexbox components
 * 3:30 App Broke.. Move on to Api apps served with Axios tutorial
 * 4:09 Implement Axios in a new blog project.
-* 5:20 Rest Point
+* 5:20 Rest Point https://github.com/Gabeaya/React-router-blog.git
 
 ### Where to pick up tomorrow:
 * The react hooks lesson is just about finished.you just passed a feel hooks to the newpost and are just about to implement the newpost pages functionality.
