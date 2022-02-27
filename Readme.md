@@ -45,6 +45,13 @@
 
 ### Sun Feb 27
 * 10:20 Go through projects and determine what database system to use.
+* 11:15 Complete pros and cons of each project. Decided to use firebase auth and json server for the internal storage with react crud functionality.
+
+### Capstone Decisions:
+* Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
+* Use Google Auth from the firebase-blog app you made with clever programmer.
+* The tutorials from firebase blog and dave gray react are compatible
+
 
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
