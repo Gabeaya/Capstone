@@ -39,6 +39,12 @@
 * 1:30 Lunch break
 * 3:15 Chapter 18: flexbox components
 * 3:30 App Broke.. Move on to Api apps served with Axios tutorial
-* 4:10 Implement Axios in a new blog project.
+* 4:09 Implement Axios in a new blog project.
+* 5:20 Rest Point
+
+### Where to pick up tomorrow:
+* The react hooks lesson is just about finished.you just passed a feel hooks to the newpost and are just about to implement the newpost pages functionality.
+* You have set up this project to use react routers version five so it is specific to the tutorial.
+
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
