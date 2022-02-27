@@ -39,5 +39,6 @@
 * 1:30 Lunch break
 * 3:15 Chapter 18: flexbox components
 * 3:30 App Broke.. Move on to Api apps served with Axios tutorial
+* 4:10 Implement Axios in a new blog project.
 ### Capstone Proposal:
 https://docs.google.com/document/d/1LykrQr7UodJ-JeZIuWyBzwbUUhCtJRqvow6uYm4QsW4/edit?usp=sharing
