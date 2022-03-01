@@ -64,6 +64,7 @@
 * 6:25 Research how to implement custom hooks
 * 6:35 Implement authentication with axios to begin with. From this point on all actions will be tracked with commits in the following repo:
 https://github.com/Gabeaya/Action-Planner 
+* 8:10 Move on to using google auth with firebase
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
