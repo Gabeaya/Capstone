@@ -61,6 +61,7 @@
 ## Monday Feb 28
 
 * 6:20 Begin building the basis of the capstone!!!!!
+* 6:25 Research how to implement custom hooks
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
