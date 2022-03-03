@@ -72,7 +72,10 @@ https://github.com/Gabeaya/Action-Planner
 * 7:00 Flesh out the website to have a home and a actions page.
 * 7:30 Look up how to locally store information from many users: https://www.freecodecamp.org/news/how-to-use-axios-with-react/
 8:00 End the night early
+ 
 
+## wednesday march 2nd 
+* 6:30 Learn firebase crud
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
