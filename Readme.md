@@ -77,6 +77,9 @@ https://github.com/Gabeaya/Action-Planner
 ## wednesday march 2nd 
 * 6:30 Learn firebase crud
 
+## Saturday march 5th
+* 3:30 authenticate app with firebase
+
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
