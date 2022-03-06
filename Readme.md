@@ -81,6 +81,9 @@ https://github.com/Gabeaya/Action-Planner
 * 3:30 authenticate app with firebase & components
 * 4:25 Add functionality to create posts.
 
+## Sunday march 6th
+* 9:20 Begin customizing post page to be more of an action bar.
+
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
