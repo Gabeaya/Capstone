@@ -78,7 +78,8 @@ https://github.com/Gabeaya/Action-Planner
 * 6:30 Learn firebase crud
 
 ## Saturday march 5th
-* 3:30 authenticate app with firebase
+* 3:30 authenticate app with firebase & components
+* 4:25 Add functionality to create posts.
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
