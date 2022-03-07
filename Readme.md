@@ -87,6 +87,7 @@ https://github.com/Gabeaya/Action-Planner
 * 2:00 get back from lunch.
 * 2:45 transfer data from input to a homepage.
 * 4:00 add delete functionality.
+* 4:30 research how to edit through firestore
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
