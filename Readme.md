@@ -91,6 +91,9 @@ https://github.com/Gabeaya/Action-Planner
 ## tuesday MMarch 8
 2:00 Add a Navbar
 2:30 Complete Navbar
+3:00 Add a logo to navbar
+3:30 Lunch
+5:00 Create a logout page
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
