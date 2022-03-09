@@ -97,6 +97,7 @@ https://github.com/Gabeaya/Action-Planner
 5:50 Make it possible to see the deadline.
 6:50 Improve landing page, move content to different pages, and research how to mark a quest as complete.
 * 7:30 Watch Tutorial on how to incorporate modals into your app
+* 8:50 Complete the tutorial for modals(we are so close, tomorrow we need to add the input values so that we can edit a quest in the modal)
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
