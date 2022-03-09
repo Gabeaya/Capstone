@@ -100,7 +100,8 @@ https://github.com/Gabeaya/Action-Planner
 * 8:50 Complete the tutorial for modals(we are so close, tomorrow we need to add the input values so that we can edit a quest in the modal)
 
 ## Wednesday March 9th
-10:50 successfully style and map modals to each individual post.
+10:50am successfully style and map modals to each individual post.
+12:00pm Complete edit form within module. when you come back from lunch you need to replicate the function on line 33 from create quest to your home page, Name it updatequest as it will be the function that gets called on when you submit your modal in order to rewrite your questsCollection for the specific quest.
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
 * Use Google Auth from the firebase-blog app you made with clever programmer.
