@@ -104,6 +104,11 @@ https://github.com/Gabeaya/Action-Planner
 * 12:00pm Complete edit form within module. when you come back from lunch you need to replicate the function on line 33 from create quest to your home page, Name it updatequest as it will be the function that gets called on when you submit your modal in order to rewrite your questsCollection for the specific quest.
 * 6:30 research some mui to make website look better.
 
+* 8:00 watch how to add glassmorphism to your page
+ 
+
+* 8:37 Finish the tutorial. Things to consider tomorrow: We need a background image, possibly lose the nav bar but keep the nav items. Come up with a nice styled landing page first and foremost.
+
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
