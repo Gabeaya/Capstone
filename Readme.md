@@ -109,6 +109,15 @@ https://github.com/Gabeaya/Action-Planner
 
 * 8:37 Finish the tutorial. Things to consider tomorrow: We need a background image, possibly lose the nav bar but keep the nav items. Come up with a nice styled landing page first and foremost.
 
+## Friday March 11th
+* 11-2: Add styling to most of the pages. It is time for lunch so heres what we need to do when we come back:
+Add a title for each page with typography and possibly a glassmorphism jumbotron,
+play around with the footer to look more pro
+add the container div to all the pages that way it will fill.
+give stying to the forms.
+
+
+
 
 ### Capstone Decisions:
 * Utilize the MUI within the "firebase" app made with the clever programmer. Try to learn a lot of mui as it does a lot of things you haven't even known existed, let alone know how to do yourself
