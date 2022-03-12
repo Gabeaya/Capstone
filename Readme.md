@@ -115,6 +115,7 @@ Add a title for each page with typography and possibly a glassmorphism jumbotron
 play around with the footer to look more pro
 add the container div to all the pages that way it will fill.
 give stying to the forms.
+10:30 You disabled the use effect so make sure you enable it before class starts on sunday
 
 
 
